@@ -1,6 +1,6 @@
 [English](https://github.com/0joseDark/Sponsorship-Request/blob/main/Sponsorship-Request.md)
 
-### 📄 **Carta Técnica de Pedido de Apoio – Projeto de Robótica Espacial**
+### 📄 **Pedido de Apoio – Projeto de Robótica Espacial**
 
 **Assunto:** Solicitação de Apoio Técnico e Financeiro – Protótipo de Robótica para Exploração Espacial
 
