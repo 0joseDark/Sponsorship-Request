@@ -25,7 +25,7 @@ Agradeço desde já a vossa atenção e disponibilidade para colaborar com este 
 
 Com os melhores cumprimentos,  
 **Jose Raposo**
-🔗 [GitHub](https://github.com/0joseDark) 
+- 🔗 [GitHub](https://github.com/0joseDark) 
 
 
 
