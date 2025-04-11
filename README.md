@@ -1,5 +1,4 @@
-# Sponsorship-Request
-Pedido de Patrocínio
+[English](https://github.com/0joseDark/Sponsorship-Request/blob/main/Sponsorship-Request.md)
 
 ### 📄 **Carta Técnica de Pedido de Apoio – Projeto de Robótica Espacial**
 
@@ -28,5 +27,8 @@ Com os melhores cumprimentos,
 **Jose Raposo**  
 *josegrand65@gmail.com*
 - __paypal__ *angel.black@ymail.com*
+🔗 [GitHub](https://github.com/0joseDark)  
+▶️ [YouTube](https://youtube.com/teu-canal)
+
 
 
