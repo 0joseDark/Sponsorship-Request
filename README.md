@@ -24,11 +24,6 @@ Este apoio será fundamental para validar o conceito e abrir caminho para etapas
 Agradeço desde já a vossa atenção e disponibilidade para colaborar com este projeto inovador.
 
 Com os melhores cumprimentos,  
-**Jose Raposo**  
-*josegrand65@gmail.com*
-- __paypal__ *angel.black@ymail.com*
-- 🔗 [GitHub](https://github.com/0joseDark)  
-- ▶️ [YouTube](https://youtube.com/)
-
+**Jose Raposo**
 
 
