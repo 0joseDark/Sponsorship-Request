@@ -7,7 +7,7 @@ Pedido de Patrocínio
 
 **Exmos. Senhores,**
 
-O meu nome é [José Raposo], e encontro-me a desenvolver um projeto de investigação na área da **robótica aplicada à exploração espacial**, com foco em **sistemas autónomos e modulares** para ambientes extremos, como a superfície lunar ou marciana.
+O meu nome é José Raposo, e encontro-me a desenvolver um projeto de investigação na área da **robótica aplicada à exploração espacial**, com foco em **sistemas autónomos e modulares** para ambientes extremos, como a superfície lunar ou marciana.
 
 O objetivo principal é criar um **protótipo funcional baseado em plataformas open source**, utilizando **Raspberry Pi** e **Arduino Mega**, integrando sensores, atuadores e módulos de comunicação, com capacidade para:
 
@@ -25,8 +25,8 @@ Este apoio será fundamental para validar o conceito e abrir caminho para etapas
 Agradeço desde já a vossa atenção e disponibilidade para colaborar com este projeto inovador.
 
 Com os melhores cumprimentos,  
-**[Jose Raposo]**  
+**Jose Raposo**  
 *josegrand65@gmail.com*
-__paypal__ *angel.black@ymail.com*
-[second life/ GitHub]
+- __paypal__ *angel.black@ymail.com*
+
 
