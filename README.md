@@ -28,7 +28,7 @@ Com os melhores cumprimentos,
 *josegrand65@gmail.com*
 - __paypal__ *angel.black@ymail.com*
 - 🔗 [GitHub](https://github.com/0joseDark)  
-- ▶️ [YouTube](https://youtube.com/teu-canal)
+- ▶️ [YouTube](https://youtube.com/)
 
 
 
