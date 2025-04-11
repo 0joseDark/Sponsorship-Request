@@ -24,6 +24,5 @@ Thank you in advance for your time and consideration in supporting this innovati
 Kind regards,  
 **José Raposo**  
 
-📧 [josegrand65@gmail.com](mailto:josegrand65@gmail.com)  
-💳 **PayPal:** [angel.black@ymail.com](https://www.paypal.com/paypalme/angelblack)
+
 
