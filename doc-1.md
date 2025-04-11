@@ -9,7 +9,7 @@
 
 - Instalei o OpenSim no meu próprio computador e, em **2009**, criei a minha própria **grid**. 
 - Durante **quatro anos**, também estive presente e ativo na comunidade da **OSgrid**, explorando e desenvolvendo conteúdos nesse mundo virtual.
-- Eu conhecia o progeto ROS
-- e vi que o opensim é um otimo simulador, nem fiz o ROS, edorei a ideia, vou fazer um AI-bot/robot
+- Eu conhecia o progeto **ROS**
+- e vi que o **opensim** é um otimo **simulador**, nem fiz o **ROS**, edorei a ideia, vou fazer um **AI-bot/robot**
 - vou ver as ideias, e fazer por mim mesmo, sem copiar, claro usando farramentas.
-- temos o oensim instalado no raspberry pi
+- temos o **oensim** instalado no **raspberry pi**
