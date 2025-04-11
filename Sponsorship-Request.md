@@ -1,4 +1,4 @@
-### 📄 **Technical Sponsorship Request – Space Robotics Project**
+### 📄 **Sponsorship Request – Space Robotics Project**
 
 **Subject:** Request for Technical and Financial Support – Robotics Prototype for Space Exploration
 
