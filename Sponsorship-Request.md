@@ -22,7 +22,8 @@ This support will be essential to validate the concept and lay the groundwork fo
 Thank you in advance for your time and consideration in supporting this innovative project.
 
 Kind regards,  
-**José Raposo**  
+**José Raposo** 
+- 🔗 [GitHub](https://github.com/0joseDark) 
 
 
 
