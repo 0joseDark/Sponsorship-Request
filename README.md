@@ -26,6 +26,7 @@ Agradeço desde já a vossa atenção e disponibilidade para colaborar com este 
 
 Com os melhores cumprimentos,  
 **[Jose Raposo]**  
-[Ejosegrand65@gmail.com] | 
+[meu e-mail: josegrand65@gmail.com] |
+__e-mail paypal__ angel.black@ymail.com
 [second life/ GitHub]
 
