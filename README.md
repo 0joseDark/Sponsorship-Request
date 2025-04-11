@@ -27,8 +27,8 @@ Com os melhores cumprimentos,
 **Jose Raposo**  
 *josegrand65@gmail.com*
 - __paypal__ *angel.black@ymail.com*
-🔗 [GitHub](https://github.com/0joseDark)  
-▶️ [YouTube](https://youtube.com/teu-canal)
+- 🔗 [GitHub](https://github.com/0joseDark)  
+- ▶️ [YouTube](https://youtube.com/teu-canal)
 
 
 
